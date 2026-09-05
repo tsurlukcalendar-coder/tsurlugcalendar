@@ -70,12 +70,12 @@
         "Select language": "Select language",
         "Tsurphu Calendar": "Tsurlug Calendar",
         "KSL": "Kagyu Samye Ling Monastery",
-        "about-text": "The Tsurlug Astrological Tradition began with The Compendium of Astrology formulated by the Third Karmapa Rangjung Dorje in 1318. Following in his footsteps, Tsurpu Jamyang Chenpo composed a major astrological treatise in 1497. Trinleypa Chokle Namgyal and Pawo Tsuklak Trengwa both commented on Rangjung Dorje\"s text. This subsequently came to be known as Tsurlug (Tsurpu Tradition) and gained adherents in the whole of Tibet following its major propagation by Situ Penchen in Eastern Tibet. In 1732, his nephew Karma Ngelek Tenzin wrote The Excellent Vase of Practical Usage and since then we have what is now known as Tsurlug Drubtsi (Siddhanta Astrological System of Tsurpu).",
+        "about-text": "The Tsurluk Astrological Tradition began with 'The Compendium of Astrology', formulated by the Third Gyalwang Karmapa Rangjung Dorje, in 1318. Following in his footsteps, Tsurphu Jamyang Chenpo composed a major astrological treatise in 1497. Trinleypa Chokle Namgyal and Pawo Tsuklak Trengwa both commented on Rangjung Dorje's text. This subsequently came to be known as Tsurlug (Tsurphu Tradition) and gained adherents throughout Tibet following its major propagation by Situ Penchen in Eastern Tibet. In 1732, Situ Penchen's nephew, Karma Ngelek Tenzin, wrote 'The Excellent Vase of Practical Usage' and since then we have what is now known as Tsurlug Drubtsi (Siddhanta Astrological System of Tsurphu).",
         "semchen": "<p>May all beings be happy and create the causes of happiness.</p><p>May they all be free from suffering and from creating the causes of suffering.</p><p>May they attain that sacred happiness which can never be tainted by suffering.</p><p>May they attain universal, impartial compassion, free of worldly bias towards friends and enemies.</p>"
     },
     {
         "code": "bo",
-        "language": "བོད་སྐད",
+        "language": "བོད་ཡིག།",
         "toolbarDay": "ཚེས།",
         "toolbarMonth": "ཟླ་བ།",
         "toolbarLanguage": "སྐད་རིགས།",
@@ -173,11 +173,11 @@
         "ty2151": "TIBETAN 2151",
         "ty2152": "ཤིང་སྦྲུལ་ལོ།",
         "ty2153": "མེ་རྟ་ལོ།",
-        "Select language": "སྐད་རིགས་གདམ་གསེས།",
+        "Select language": "སྐད་ཡིག་གདམ་གསེས།",
         "Tsurphu Calendar": "མཚུར་ལུགས་ལོ་ཐོ།",
         "KSL": "བཀའ་བརྒྱུད་བསམ་ཡས་གླིང།",
         "about-text": "སྤྱི་ལོ ༡༣༡༨ ལོར་རྗེ་རང་བྱུང་རྡོ་རྗེས་རྩིས་ཀུན་བསྡུས་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་མཛད། སྤྱི་ལོ་ ༡༤༩༧ ལོར་མཚུར་ཕུ་འཇམ་དབྱངས་ཆེན་པོས་རྩིས་གཞུང་ཆེན་པོ་མཛད་ཅིང། རྩིས་བསྡུས་ལ་ཀརྨ་ཕྲིན་ལས་པ་དང་གཙུག་ལག་ཕྲེང་བས་འགྲེལ་ཆེན་མཛད་པ་སོགས་ཀྱི་རྒྱུན་ལ་རིམ་པར་མཚུར་ལུགས་སུ་གྲགས། མདོ་ཁམས་སྟོད་ནས་བྱམས་མགོན་སི་ཏུ་པན་ཆེན་གྱིས་ལུགས་འདི་གཙོ་བོར་དར་སྤེལ་གནང་སྟབས་བོད་ཁམས་ཡོངས་ལ་ཤུགས་རྐྱེན་ཆེ། སྤྱི་ལོ་ ༡༧༣༢  ལོར་རྗེ་དབོན་མཁས་པ་ཆེན་པོས་ཉེར་མཁོ་བུམ་བཟང་བརྩམས་པ་སོགས་ལས་མཚུར་ལུགས་གྲུབ་རྩིས་ཞེས་བྱ་བའི་བཀའ་སྲོལ་འདི་འབྱུང་བ་ལགས་སོ།།",
         "semchen": "<p>སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག།</p><p>སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག།</p><p>སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དམ་པ་དང་མི་འབྲལ་བར་གྱུར་ཅིག།</p><p>ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམས་ཆེན་པོ་ལ་གནས་པར་གྱུར་ཅིག།</p>",
-        "Astrology": "གྲུབ་རྩིས།"
+        "Astrology": "རྩིས།"
     }
 ]

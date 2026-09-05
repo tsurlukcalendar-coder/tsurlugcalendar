@@ -301,7 +301,7 @@
         "category": "elemental",
         "enName": "Fire-Fire",
         "boName": "མེ་གཉིས",
-        "enText": "Brings increase, causing one to meet sustenance and riches. Good for commerce, planting seeds and practicing generosity. Practice the wealth goddess, Vasudhara, engage in positive actions, make offerings to wealth deities and one will gain accomplishment.",
+        "enText": "Brings increase, causing one to meet sustenance and riches. Good for commerce, planting seeds and practicing generosity. Practice the wealth goddess and make water offerings (to hungry ghosts). Make offerings to wealth deities to gain accomplishment.",
         "boText": "མེ་གཉིས་འཕྲད་པ་འཕེལ་འགྱུར་སྦྱོར། །འཕེལ་འགྱུར་སྦྱོར་བས་ཟས་གོས་རྙེད། ཚོང་བྱ་སྦྱིན་གཏོང་ས་བོན་འདེབས། །ནོར་སྦྱིན་མ་སྒྲུབ་ཆུ་སྦྱིན་སྟེར། །ནོར་ལྷ་མཆོད་ཅིང་དངོས་གྲུབ་ཞུ།།"
     },
     {
@@ -541,7 +541,7 @@
         "category": "astro28",
         "enName": "Exhaustion",
         "boName": "ཟད",
-        "enText": "Under Exhaustion possessions and life are depleted.",
+        "enText": "Under Exhaustion possessions and life decline.",
         "boText": "ཟད་ལ་ནོར་དང་སྐྱེ་བོ་འཛད།"
     },
     {
@@ -589,7 +589,7 @@
         "category": "skyDoors",
         "enName": "Business",
         "boName": "ཚོང",
-        "enText": "Business is unfavourable for starting new business.",
+        "enText": "Business is not good for starting new business.",
         "boText": "ཚོང་ལས་འགོ་འཛུགས་རིགས་མི་རུང།"
     },
     {
@@ -646,7 +646,7 @@
         "enName": "Deceased",
         "boName": "ཤིད",
         "enText": "Deceased is unfavourable for accumulating virtue for the deceased.",
-        "boText": "གཤིན་པོའི་ཆེད་དགེ་ལས་སྟོན་མོ་མི་ང།"
+        "boText": "གཤིན་པོའི་ཆེད་དགེ་ལས་སྟོན་མོ་མི་རུང་།"
     },
     {
         "astroID": "a83",
@@ -715,7 +715,7 @@
         "enName": "Ullag",
         "boName": "དབུལ་ལག",
         "enText": "Lochen Rinpoche’s treatise states that Ullag is inauspicious for activities related to the living and the departed. Giving speeches, marital affairs and taking out dead bodies should be avoided at all cost.",
-        "boText": "དབུལ་ལག་མཁར་ལས་འགོ་འཛུགས་དང། །བཤད་གསར་བརྟེན་བཞེངས་རབ་ཏུ་གནས། །བག་མ་བུ་འབོགས་སྒྱེད་པུ་འཛུགས། །ལྟད་སྟོན་ཐོག་འབུབས་དར་འཕྱར་བ། །ནོར་ཕྱུགས་ཕྱིར་གཏོང་བང་མཛོད་འབྱེད། །རོ་འདོན་ཞིང་འདེབས་ལ་སོགས་"
+        "boText": "དབུལ་ལག་མཁར་ལས་འགོ་འཛུགས་དང། །བཤད་གསར་བརྟེན་བཞེངས་རབ་ཏུ་གནས། །བག་མ་བུ་འབོགས་སྒྱེད་པུ་འཛུགས། །ལྟད་སྟོན་ཐོག་འབུབས་དར་འཕྱར་བ། །ནོར་ཕྱུགས་ཕྱིར་གཏོང་བང་མཛོད་འབྱེད། །རོ་འདོན་ཞིང་འདེབས་ལ་སོགས་པ། །གསོན་གཤིན་ལས་དག་ངན་པས་འཛེམས།།"
     },
     {
         "astroID": "a91",
